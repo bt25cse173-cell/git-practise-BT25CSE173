@@ -30,3 +30,6 @@ Add links to the issues created for the exercises.
 
 ## Pull Requests
 Add links to the pull requests created for the exercises.
+## GitHub Issues
+
+- Exercise 01: https://github.com/bt25cse173-cell/git-practise-BT25CSE173/issues/1
